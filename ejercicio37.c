@@ -1,3 +1,4 @@
+//programa que genera todas la tablas de multiplicar de 1 al 10 y las imprime //
 #include <stdio.h>
 
 int main() {
