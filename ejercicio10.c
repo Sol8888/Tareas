@@ -1,4 +1,5 @@
-#include <stdio.h>
+//programa que suma todos los numeros del 1 hasta el numero elegido//
+#include <stdio.h> 
 
 int main() {
     int num, sum = 0;
