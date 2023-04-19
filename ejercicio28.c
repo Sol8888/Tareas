@@ -1,3 +1,4 @@
+//programa en c que lea 2 numero enteros y determine cual de los dos tiene un mayor cantidad de digitos primos //
 #include <stdio.h>
 
 int es_primo(int num) {
