@@ -1,3 +1,4 @@
+//programa que  lee un numero entero y determine si es primo o no// 
 #include <stdio.h>
 
 int main() {
