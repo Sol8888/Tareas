@@ -1,3 +1,4 @@
+//programa que lee un número entero y calcula el promedio entero de los factoriales de los enteros comprendidos desde 1 hasta el número leído//
 #include <stdio.h>
 
 int factorial(int num) {
