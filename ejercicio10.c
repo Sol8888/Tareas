@@ -2,9 +2,8 @@
 #include <stdio.h> 
 
 int main() {
-    int num, sum = 0;
-    
-    printf("Ingrese un número entero positivo: ");
+    int num, sum = 0;    
+    printf("Ingrese un numero entero positivo: ");
     scanf("%d", &num);
     
     for (int i = 1; i <= num; i++) {
